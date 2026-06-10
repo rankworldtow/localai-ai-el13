@@ -1,4 +1,4 @@
-# 
+# VIP LocalAI scripts. Avec open source et architecture évolutive — optimisé pour des performances et une efficacité maximales.
 
 
 
